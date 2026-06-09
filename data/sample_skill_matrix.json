@@ -1,0 +1,422 @@
+[
+	{
+		"Name": "Bibek Moulik",
+		"details": [
+			{
+				"CSC Verdict": "Advanced",
+				"Core Verdict": "Advanced",
+				"Fusion Verdict": "Intermediate",
+				"Normalizing CSC": 71.4285714286,
+				"Overall Summary": "Advanced",
+				"Overall Verdict": "Strong",
+				"Normalizing core": 76.9230769231,
+				"Planning Verdict": "Intermediate",
+				"Migration Verdict": "Advanced",
+				"Normalizing fusion": 66.6666666667,
+				"Normalizing Planning": 70,
+				"Normalizing Migration": 75,
+				"Overall Capability Strength": 72.0036630037
+			}
+		]
+	},
+	{
+		"Name": "Surabhi Singh",
+		"details": [
+			{
+				"CSC Verdict": "Intermediate",
+				"Core Verdict": "Advanced",
+				"Fusion Verdict": "Intermediate",
+				"Normalizing CSC": 42.8571428571,
+				"Overall Summary": "Intermediate",
+				"Overall Verdict": "Good",
+				"Normalizing core": 76.9230769231,
+				"Planning Verdict": "Beginner",
+				"Migration Verdict": "Intermediate",
+				"Normalizing fusion": 66.6666666667,
+				"Normalizing Planning": 35,
+				"Normalizing Migration": 41.6666666667,
+				"Overall Capability Strength": 52.6227106227
+			}
+		]
+	},
+	{
+		"Name": "Rupali Ranjan",
+		"details": [
+			{
+				"CSC Verdict": "Beginner",
+				"Core Verdict": "Intermediate",
+				"Fusion Verdict": "Intermediate",
+				"Normalizing CSC": 0,
+				"Overall Summary": "Beginner",
+				"Overall Verdict": "Moderate",
+				"Normalizing core": 57.6923076923,
+				"Planning Verdict": "Intermediate",
+				"Migration Verdict": "Beginner",
+				"Normalizing fusion": 50,
+				"Normalizing Planning": 70,
+				"Normalizing Migration": 0,
+				"Overall Capability Strength": 35.5384615385
+			}
+		]
+	},
+	{
+		"Name": "Sanjay Kumar Yadav",
+		"details": [
+			{
+				"CSC Verdict": "Intermediate",
+				"Core Verdict": "Intermediate",
+				"Fusion Verdict": "Beginner",
+				"Normalizing CSC": 42.8571428571,
+				"Overall Summary": "Intermediate",
+				"Overall Verdict": "Good",
+				"Normalizing core": 42.3076923077,
+				"Planning Verdict": "Intermediate",
+				"Migration Verdict": "Beginner",
+				"Normalizing fusion": 37.5,
+				"Normalizing Planning": 60,
+				"Normalizing Migration": 33.3333333333,
+				"Overall Capability Strength": 43.1996336996
+			}
+		]
+	},
+	{
+		"Name": "Avantika Yadav",
+		"details": [
+			{
+				"CSC Verdict": "Advanced",
+				"Core Verdict": "Intermediate",
+				"Fusion Verdict": "Advanced",
+				"Normalizing CSC": 85.7142857143,
+				"Overall Summary": "Advanced",
+				"Overall Verdict": "Strong",
+				"Normalizing core": 65.3846153846,
+				"Planning Verdict": "Advanced",
+				"Migration Verdict": "Advanced",
+				"Normalizing fusion": 91.6666666667,
+				"Normalizing Planning": 80,
+				"Normalizing Migration": 83.3333333333,
+				"Overall Capability Strength": 81.2197802198
+			}
+		]
+	},
+	{
+		"Name": "Ishita Singh",
+		"details": [
+			{
+				"CSC Verdict": "Beginner",
+				"Core Verdict": "Beginner",
+				"Fusion Verdict": "Beginner",
+				"Normalizing CSC": 0,
+				"Overall Summary": "Beginner",
+				"Overall Verdict": "Developing",
+				"Normalizing core": 15.3846153846,
+				"Planning Verdict": "Beginner",
+				"Migration Verdict": "Beginner",
+				"Normalizing fusion": 33.3333333333,
+				"Normalizing Planning": 0,
+				"Normalizing Migration": 0,
+				"Overall Capability Strength": 9.7435897436
+			}
+		]
+	},
+	{
+		"Name": "Vignesh Ravi",
+		"details": [
+			{
+				"CSC Verdict": "Beginner",
+				"Core Verdict": "Beginner",
+				"Fusion Verdict": "Intermediate",
+				"Normalizing CSC": 0,
+				"Overall Summary": "Beginner",
+				"Overall Verdict": "Developing",
+				"Normalizing core": 38.4615384615,
+				"Planning Verdict": "Beginner",
+				"Migration Verdict": "Beginner",
+				"Normalizing fusion": 50,
+				"Normalizing Planning": 0,
+				"Normalizing Migration": 0,
+				"Overall Capability Strength": 17.6923076923
+			}
+		]
+	},
+	{
+		"Name": "Soni Siddiqui",
+		"details": [
+			{
+				"CSC Verdict": "Advanced",
+				"Core Verdict": "Advanced",
+				"Fusion Verdict": "Advanced",
+				"Normalizing CSC": 85.7142857143,
+				"Overall Summary": "Advanced",
+				"Overall Verdict": "Strong",
+				"Normalizing core": 80.7692307692,
+				"Planning Verdict": "Intermediate",
+				"Migration Verdict": "Advanced",
+				"Normalizing fusion": 83.3333333333,
+				"Normalizing Planning": 70,
+				"Normalizing Migration": 75,
+				"Overall Capability Strength": 78.9633699634
+			}
+		]
+	},
+	{
+		"Name": "Sachin D",
+		"details": [
+			{
+				"CSC Verdict": "Beginner",
+				"Core Verdict": "Beginner",
+				"Fusion Verdict": "Intermediate",
+				"Normalizing CSC": 0,
+				"Overall Summary": "Beginner",
+				"Overall Verdict": "Developing",
+				"Normalizing core": 26.9230769231,
+				"Planning Verdict": "Beginner",
+				"Migration Verdict": "Beginner",
+				"Normalizing fusion": 45.8333333333,
+				"Normalizing Planning": 0,
+				"Normalizing Migration": 0,
+				"Overall Capability Strength": 14.5512820513
+			}
+		]
+	},
+	{
+		"Name": "Shivakrishna Perugu",
+		"details": [
+			{
+				"CSC Verdict": "Beginner",
+				"Core Verdict": "Intermediate",
+				"Fusion Verdict": "Intermediate",
+				"Normalizing CSC": 35.7142857143,
+				"Overall Summary": "Intermediate",
+				"Overall Verdict": "Good",
+				"Normalizing core": 42.3076923077,
+				"Planning Verdict": "Intermediate",
+				"Migration Verdict": "Intermediate",
+				"Normalizing fusion": 50,
+				"Normalizing Planning": 65,
+				"Normalizing Migration": 50,
+				"Overall Capability Strength": 48.6043956044
+			}
+		]
+	},
+	{
+		"Name": "Rubby Singh",
+		"details": [
+			{
+				"CSC Verdict": "Intermediate",
+				"Core Verdict": "Intermediate",
+				"Fusion Verdict": "Intermediate",
+				"Normalizing CSC": 64.2857142857,
+				"Overall Summary": "Beginner",
+				"Overall Verdict": "Moderate",
+				"Normalizing core": 50,
+				"Planning Verdict": "Beginner",
+				"Migration Verdict": "Beginner",
+				"Normalizing fusion": 66.6666666667,
+				"Normalizing Planning": 0,
+				"Normalizing Migration": 0,
+				"Overall Capability Strength": 36.1904761905
+			}
+		]
+	},
+	{
+		"Name": "Anjali Nair",
+		"details": [
+			{
+				"CSC Verdict": "Beginner",
+				"Core Verdict": "Intermediate",
+				"Fusion Verdict": "Intermediate",
+				"Normalizing CSC": 0,
+				"Overall Summary": "Beginner",
+				"Overall Verdict": "Developing",
+				"Normalizing core": 42.3076923077,
+				"Planning Verdict": "Beginner",
+				"Migration Verdict": "Beginner",
+				"Normalizing fusion": 54.1666666667,
+				"Normalizing Planning": 0,
+				"Normalizing Migration": 0,
+				"Overall Capability Strength": 19.2948717949
+			}
+		]
+	},
+	{
+		"Name": "Anurani L S",
+		"details": [
+			{
+				"CSC Verdict": "Beginner",
+				"Core Verdict": "Intermediate",
+				"Fusion Verdict": "Intermediate",
+				"Normalizing CSC": 0,
+				"Overall Summary": "Beginner",
+				"Overall Verdict": "Moderate",
+				"Normalizing core": 42.3076923077,
+				"Planning Verdict": "Intermediate",
+				"Migration Verdict": "Beginner",
+				"Normalizing fusion": 50,
+				"Normalizing Planning": 50,
+				"Normalizing Migration": 0,
+				"Overall Capability Strength": 28.4615384615
+			}
+		]
+	},
+	{
+		"Name": "Pallab Mahata",
+		"details": [
+			{
+				"CSC Verdict": "Advanced",
+				"Core Verdict": "Advanced",
+				"Fusion Verdict": "Advanced",
+				"Normalizing CSC": 71.4285714286,
+				"Overall Summary": "Advanced",
+				"Overall Verdict": "Strong",
+				"Normalizing core": 80.7692307692,
+				"Planning Verdict": "Advanced",
+				"Migration Verdict": "Advanced",
+				"Normalizing fusion": 83.3333333333,
+				"Normalizing Planning": 85,
+				"Normalizing Migration": 91.6666666667,
+				"Overall Capability Strength": 82.4395604396
+			}
+		]
+	},
+	{
+		"Name": "Rajesh Sharma",
+		"details": [
+			{
+				"CSC Verdict": "Intermediate",
+				"Core Verdict": "Intermediate",
+				"Fusion Verdict": "Advanced",
+				"Normalizing CSC": 42.8571428571,
+				"Overall Summary": "Intermediate",
+				"Overall Verdict": "Good",
+				"Normalizing core": 65.3846153846,
+				"Planning Verdict": "Intermediate",
+				"Migration Verdict": "Beginner",
+				"Normalizing fusion": 75,
+				"Normalizing Planning": 70,
+				"Normalizing Migration": 33.3333333333,
+				"Overall Capability Strength": 57.315018315
+			}
+		]
+	},
+	{
+		"Name": "Mihira Gupta",
+		"details": [
+			{
+				"CSC Verdict": "Beginner",
+				"Core Verdict": "Beginner",
+				"Fusion Verdict": "Beginner",
+				"Normalizing CSC": 0,
+				"Overall Summary": "Beginner",
+				"Overall Verdict": "Developing",
+				"Normalizing core": 38.4615384615,
+				"Planning Verdict": "Beginner",
+				"Migration Verdict": "Beginner",
+				"Normalizing fusion": 33.3333333333,
+				"Normalizing Planning": 0,
+				"Normalizing Migration": 0,
+				"Overall Capability Strength": 14.358974359
+			}
+		]
+	},
+	{
+		"Name": "Shivakrishna Perugu",
+		"details": [
+			{
+				"CSC Verdict": "Intermediate",
+				"Core Verdict": "Advanced",
+				"Fusion Verdict": "Intermediate",
+				"Normalizing CSC": 50,
+				"Overall Summary": "Intermediate",
+				"Overall Verdict": "Good",
+				"Normalizing core": 92.3076923077,
+				"Planning Verdict": "Intermediate",
+				"Migration Verdict": "Intermediate",
+				"Normalizing fusion": 66.6666666667,
+				"Normalizing Planning": 45,
+				"Normalizing Migration": 58.3333333333,
+				"Overall Capability Strength": 62.4615384615
+			}
+		]
+	},
+	{
+		"Name": "Surabhi Chauhan",
+		"details": [
+			{
+				"CSC Verdict": "Advanced",
+				"Core Verdict": "Advanced",
+				"Fusion Verdict": "Advanced",
+				"Normalizing CSC": 92.8571428571,
+				"Overall Summary": "Advanced",
+				"Overall Verdict": "Strong",
+				"Normalizing core": 88.4615384615,
+				"Planning Verdict": "Advanced",
+				"Migration Verdict": "Advanced",
+				"Normalizing fusion": 91.6666666667,
+				"Normalizing Planning": 100,
+				"Normalizing Migration": 91.6666666667,
+				"Overall Capability Strength": 92.9304029304
+			}
+		]
+	},
+	{
+		"Name": "Namratha R",
+		"details": [
+			{
+				"CSC Verdict": "Beginner",
+				"Core Verdict": "Beginner",
+				"Fusion Verdict": "Beginner",
+				"Normalizing CSC": 0,
+				"Overall Summary": "Beginner",
+				"Overall Verdict": "Developing",
+				"Normalizing core": 15.3846153846,
+				"Planning Verdict": "Beginner",
+				"Migration Verdict": "Beginner",
+				"Normalizing fusion": 16.6666666667,
+				"Normalizing Planning": 0,
+				"Normalizing Migration": 0,
+				"Overall Capability Strength": 6.4102564103
+			}
+		]
+	},
+	{
+		"Name": "Janani K",
+		"details": [
+			{
+				"CSC Verdict": "Beginner",
+				"Core Verdict": "Beginner",
+				"Fusion Verdict": "Beginner",
+				"Normalizing CSC": 0,
+				"Overall Summary": "Beginner",
+				"Overall Verdict": "Developing",
+				"Normalizing core": 15.3846153846,
+				"Planning Verdict": "Beginner",
+				"Migration Verdict": "Beginner",
+				"Normalizing fusion": 25,
+				"Normalizing Planning": 0,
+				"Normalizing Migration": 0,
+				"Overall Capability Strength": 8.0769230769
+			}
+		]
+	},
+	{
+		"Name": "Suhas M V",
+		"details": [
+			{
+				"CSC Verdict": "Intermediate",
+				"Core Verdict": "Advanced",
+				"Fusion Verdict": "Intermediate",
+				"Normalizing CSC": 50,
+				"Overall Summary": "Intermediate",
+				"Overall Verdict": "Good",
+				"Normalizing core": 80.7692307692,
+				"Planning Verdict": "Intermediate",
+				"Migration Verdict": "Advanced",
+				"Normalizing fusion": 54.1666666667,
+				"Normalizing Planning": 45,
+				"Normalizing Migration": 75,
+				"Overall Capability Strength": 60.9871794872
+			}
+		]
+	}
+]
