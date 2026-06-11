@@ -57,7 +57,7 @@ if st.button("Find Candidates"):
                         "semantic_weighted",
                     ]
                 ],
-                use_container_width=True,
+                width='stretch',
             )
             st.bar_chart(df.set_index("name")["final_score"])
             for row in data["results"]:

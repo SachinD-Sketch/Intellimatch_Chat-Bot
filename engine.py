@@ -1,9 +1,16 @@
 import re
+import os
 from functools import lru_cache
 from typing import Any, Dict, List
+from pathlib import Path
 import numpy as np
 from sentence_transformers import SentenceTransformer
 from data_loader import get_input_data, normalize_skill_matrix, normalize_availability
+
+# Set HuggingFace cache directory to local project directory
+CACHE_DIR = Path(__file__).resolve().parent / ".model_cache"
+os.environ["HF_HOME"] = str(CACHE_DIR)
+os.environ["TRANSFORMERS_CACHE"] = str(CACHE_DIR)
 
 CAPABILITY_ALIASES = {
     "workfront core": "Workfront Core",
@@ -27,7 +34,18 @@ ALL_CAPS = [
 
 @lru_cache(maxsize=1)
 def get_model():
-    return SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
+    try:
+        # Try to load from local cache first, then download if needed
+        model = SentenceTransformer(
+            "sentence-transformers/all-MiniLM-L6-v2",
+            cache_folder=str(CACHE_DIR),
+            device='cpu'  # Use CPU to avoid GPU memory issues
+        )
+        return model
+    except Exception as e:
+        print(f"Warning: Could not load SentenceTransformer model: {e}")
+        print("Make sure you have internet connection for first-time model download.")
+        raise
 
 
 def cosine_sim(a: np.ndarray, b: np.ndarray) -> float:

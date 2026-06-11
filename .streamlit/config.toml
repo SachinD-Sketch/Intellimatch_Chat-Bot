@@ -1,0 +1,12 @@
+[client]
+showErrorDetails = true
+
+[logger]
+level = "info"
+
+[server]
+headless = false
+port = 8501
+
+[browser]
+gatherUsageStats = false
