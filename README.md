@@ -49,7 +49,7 @@ pip install -r requirements.txt
 **Option A: Using PowerShell (Recommended)**
 ```powershell
 Run the server First
- "uvicorn app:app --reload --port 8002" 
+uvicorn app:app --reload --port 8002 
 .\run_all.ps1
 
 ```
