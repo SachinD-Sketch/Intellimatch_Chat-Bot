@@ -47,9 +47,11 @@ pip install -r requirements.txt
 ### Step 2: Run Both Services
 
 **Option A: Using PowerShell (Recommended)**
-``` Run the server First "uvicorn app:app --reload --port 8002" 
 ```powershell
+Run the server First
+ "uvicorn app:app --reload --port 8002" 
 .\run_all.ps1
+
 ```
 
 **Option B: Using Windows Command Prompt**
